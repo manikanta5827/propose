@@ -7,7 +7,7 @@ const page = () => {
     <div className="mainDiv">
       <div className="subDiv">
         <Image
-          src="/images/d.gif"
+          src="/images/m3.gif"
           alt="Gif"
           width={250}
           height={200}

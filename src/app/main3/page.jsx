@@ -38,7 +38,7 @@ const Page = () => {
     >
       <div className="subDiv">
         <Image
-          src="/images/d.gif"
+          src="/images/m1.gif"
           alt="Gif"
           width={250}
           height={200}
